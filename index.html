@@ -3,10 +3,11 @@ layout: home
 author_profile: true
 ---
 
-{% mermaid %}
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-{% endmermaid %}
+<script>mermaid.initialize( { startOnLoad: true } );</script>
+<div class="mermaid">
+    graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>
