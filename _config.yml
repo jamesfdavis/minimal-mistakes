@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "penrose.dev"
-title_separator          : "|"
-subtitle                 : "Write the software that makes you happy."
+title                    : "the software engineering blog"
+title_separator          : ":-p"
+subtitle                 : "do the programming that makes you happy"
 name                     : "James Davis"
 description              : "Penrose Development"
 url                      : "https://penrose.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
