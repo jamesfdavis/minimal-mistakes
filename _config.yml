@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "James Davis"
-  avatar           : "/assets/images/bio-photo.jpeg"
+  avatar           : "/assets/images/bio-img.jpg"
   bio              : "Software Engineer"
   location         : "Grants Pass, OR"
   email            :
